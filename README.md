@@ -119,7 +119,7 @@ This repo includes multiple visualization utilities, such as:
 ## 📖 Citation
 If you find this work useful, please cite our paper:
 ```bash
-@software{zhang2025finet,
+@article{zhang2025finet,
   author = {Zhang, Qichao and Chen, Genlang and Zhang, Jiajian and Jia, Chengcheng},
   title = {{FI-Net: Towards Robust Identification in Dense Scenes via Re-ID-Augmented Face Feature Fusion}},
   url = {https://github.com/zjucgl/FI-Net},
