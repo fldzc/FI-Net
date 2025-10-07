@@ -1,4 +1,4 @@
-# FI-Net: Face Recognition with Feature Integration
+# FI-Net: Towards Robust Identification in Dense  Scenes via Re-ID-Augmented Face Feature Fusion
 
 A deep learning system for multi-image face recognition via feature fusion, integrating state-of-the-art face recognition and fusion techniques.
 
